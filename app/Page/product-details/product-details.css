@@ -1,0 +1,12 @@
+.detail-image-container {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.product-detail-img {
+    max-height: 500px;
+    object-fit: contain;
+    width: 100%;
+}
